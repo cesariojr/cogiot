@@ -1,7 +1,7 @@
-# BlueTalks IoT na Prática: do sensor à nuvem
-Materiais do BlueTalks/Meetup IoT 25/04/2019
+# IBM Talk'n'Labs - Cloud, Data & AI
+Material do IBM Talk'n'Labs - Como integrar Internet das Coisas e Machine Learning na IBM Cloud - 11/10/2019
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/bluetalks.png" width="400">
+<img src="https://github.com/cesariojr/cogiot/blob/master/images/jose_cesario_v2.png" width="400">
 
 ## Agenda
 
