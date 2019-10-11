@@ -2,7 +2,7 @@
 
 ## Créditos
 
-Esse conteúdo foi baseado no artigo Build a cognitive IoT app in just 7 steps (https://developer.ibm.com/tutorials/iot-cognitive-iot-app-machine-learning/) de Romeo Kienzler.
+Esse conteúdo foi baseado no artigo "Build a cognitive IoT app in just 7 steps", (https://developer.ibm.com/tutorials/iot-cognitive-iot-app-machine-learning/) de Romeo Kienzler.
 
 ## Solução cognitiva de IoT
 
@@ -14,9 +14,29 @@ Eventualmente, o fabricante percebe que a latência é muito alta e a estabilida
 
 ## Modelo Operacional
 
+<p align="center">
+<img src="https://github.com/cesariojr/cogiot/blob/master/images/Picture1.png" width="700">
+</p>
+
+Figura 1: Modelo Operacional
+Fonte: Adaptado de Romeo Kienzler, https://developer.ibm.com/tutorials/iot-cognitive-iot-app-machine-learning/
+
+## Componentes IBM Cloud utilizados
+
+Todos os recursos do catálogo da IBM Cloud aqui listados serão utilizados com a camada Lite.
+
+1. Node-RED Starter, aplicação Cloud Foundry, baseada em Node.js que já acompanha uma instância do Cloudant (https://cloud.ibm.com/catalog/starters/node-red-template)
+2. IBM Watson IoT Platfom (https://cloud.ibm.com/catalog/services/internet-of-things-platform)
+3. IBM Cloud Object Storage - ICOS (https://cloud.ibm.com/catalog/services/cloud-object-storage)
+4. IBM Watson Machine Learning (https://cloud.ibm.com/catalog/services/machine-learning)
+
+## Artigos interessantes
+
+https://developer.ibm.com/recipes/tutorials/machine-learning-and-ibm-watson-studio/
+https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-overview.html
 
 
 ***
 Links Rápidos :
-[Índice](https://github.com/cesariojr/iotmeetup/) - **[Parte 1](/content/intro.md)** - [Parte 2](/content/prereq.md) - [Parte 3](/content/boilerplate.md) - [Parte 4](/content/platform.md) - [Parte 5](/content/device.md) - [Parte 6](/content/view.md) - [Parte 7](/content/nodered.md) - [Parte 8](/content/next.md)
+[Índice](https://github.com/cesariojr/cogiot/) - **[Parte 1](/content/pat01.md)** - [Parte 2](/content/part02.md) - [Parte 3](/content/part03.md) - [Parte 4](/content/part04.md) - [Parte 5](/content/part05.md) - [Parte 6](/content/part06.md) - [Parte 7](/content/part07.md) - [Parte 8](/content/part08.md)
 
