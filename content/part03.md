@@ -28,7 +28,7 @@
   
     5.1 Flow 1 (https://github.com/cesariojr/cogiot/blob/master/content/flow1.json)
   
-    5.2 Flow 2 (https://github.com/cesariojr/cogiot/blob/master/content/flow2).json
+    5.2 Flow 2 (https://github.com/cesariojr/cogiot/blob/master/content/flow2.json)
 
 6. Criar database washing dentro do Cloudant
 
