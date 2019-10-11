@@ -11,8 +11,8 @@ Introdução e fundamentos sobre as tecnologias que compõe a solução cognitiv
 ### [Parte 2](/content/part02.md)
 Pré-requisitos para as atividades
 
-### [Parte 3](/content/boilerplate.md)
-Como criar e implantar uma aplicação completa na IBM Cloud, usando um servidor Node.js, banco de dados NoSQL Cloudant e o serviço de Internet das Coisas (IBM Watson IoT Platform)
+### [Parte 3](/content/part03.md)
+Como criar e implantar uma aplicação completa na IBM Cloud, usando um servidor Node.js, banco de dados NoSQL Cloudant, serviço de Internet das Coisas (IBM Watson IoT Platform) e serviço IBM Watson Machine Learning
 
 ### [Parte 4](/content/platform.md)
 Como configurar o serviço de Internet das Coisas (IBM Watson IoT Platform) usando o protocolo MQTT para receber dados de um sensor simulado.
