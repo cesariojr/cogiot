@@ -5,10 +5,10 @@ Material do IBM Talk'n'Labs - Como integrar Internet das Coisas e Machine Learni
 
 ## Agenda
 
-### [Parte 1](/content/intro.md)
-Introdução e fundamentos sobre as tecnologias que compõe soluções de Internet das Coisas (IoT - Internet of Things)
+### [Parte 1](/content/part01.md)
+Introdução e fundamentos sobre as tecnologias que compõe a solução cognitiva de IoT
 
-### [Parte 2](/content/prereq.md)
+### [Parte 2](/content/part02.md)
 Pré-requisitos para as atividades
 
 ### [Parte 3](/content/boilerplate.md)
